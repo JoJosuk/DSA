@@ -60,3 +60,15 @@ $$ N = branches^{depth} $$
 
 ### question answers
 
+1) b
+2) b
+3) 1
+4) a/b
+5) log n
+6) $n^{1/2}$
+7) n
+8) n
+9) $n^2$
+10) log n
+11) $kc^k$  where k length of string and c characters of alphabets
+12) $b*log(b)+ a*log(b)$
